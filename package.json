@@ -1,0 +1,29 @@
+{
+  "name": "cpi",
+  "version": "1.0.0",
+  "description": "cpi project",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon ./index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ngminhhhh/CPI_Project.git"
+  },
+  "keywords": [
+    "CPI"
+  ],
+  "author": "ngcminhhhh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ngminhhhh/CPI_Project/issues"
+  },
+  "homepage": "https://github.com/ngminhhhh/CPI_Project#readme",
+  "dependencies": {
+    "express": "^4.21.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.7"
+  }
+}
